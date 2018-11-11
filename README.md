@@ -1,5 +1,5 @@
 # gdeltproject
-# 1.sourceCode di gdelt.ipynb
+1.sourceCode di gdelt.ipynb \n
 # 2.jadinya pake keyword=trade-war untuk query source urlnya karena cameo/eventcodenya gak akurat sama topik kmren firman dah coba eksplor
 # 3.Actor1Code sama Actor2Code 'CHN' atau 'USA'
 # 4.Hasil filter keyword itu 76 ribu
