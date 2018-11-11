@@ -1,4 +1,5 @@
 # gdeltproject
+# comment
 1.sourceCode di gdelt.ipynb <br>
 2.jadinya pake keyword=trade-war untuk query source urlnya karena cameo/eventcodenya gak akurat sama topik kmren firman dah coba eksplor <br>
 3.Actor1Code sama Actor2Code 'CHN' atau 'USA' <br>
