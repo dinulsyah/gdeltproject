@@ -1,4 +1,4 @@
-# gdeltproject
+# Analysis Trend of CNY/USD Through News Coverage 
 
 Currently trade between the United States and China where both are interrelated. Increase tariffs on goods offered by each country. President Donald Trump has promised in his campaign to win the challenge and also reduce the balance that has been made in the international system which has been damaged. The Chinese action in increasing the important import duties attracted Donald Trump even before he was appointed as President of the United States.The data to be taken in this study uses the data available on the GDELT Project website which is a very large number of open platform databases taken from all online media sources in the world today.
 
